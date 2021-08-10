@@ -1,0 +1,10 @@
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.csprojAssemblyReference.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.Form1.resources
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.Properties.Resources.resources
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.csproj.GenerateResource.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.csproj.CoreCompileInputs.cache
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\bin\Debug\QuickHull.exe.config
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\bin\Debug\QuickHull.exe
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\bin\Debug\QuickHull.pdb
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.exe
+C:\Users\Atian\OneDrive\Рабочий стол\КГ\QuickHull\QuickHull\obj\Debug\QuickHull.pdb
